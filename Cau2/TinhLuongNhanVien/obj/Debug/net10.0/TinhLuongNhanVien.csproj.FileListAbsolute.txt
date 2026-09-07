@@ -1,0 +1,14 @@
+C:\Users\Truong\source\repos\TinhLuongNhanVien\TinhLuongNhanVien\bin\Debug\net10.0\TinhLuongNhanVien.exe
+C:\Users\Truong\source\repos\TinhLuongNhanVien\TinhLuongNhanVien\bin\Debug\net10.0\TinhLuongNhanVien.deps.json
+C:\Users\Truong\source\repos\TinhLuongNhanVien\TinhLuongNhanVien\bin\Debug\net10.0\TinhLuongNhanVien.runtimeconfig.json
+C:\Users\Truong\source\repos\TinhLuongNhanVien\TinhLuongNhanVien\bin\Debug\net10.0\TinhLuongNhanVien.dll
+C:\Users\Truong\source\repos\TinhLuongNhanVien\TinhLuongNhanVien\bin\Debug\net10.0\TinhLuongNhanVien.pdb
+C:\Users\Truong\source\repos\TinhLuongNhanVien\TinhLuongNhanVien\obj\Debug\net10.0\TinhLuongNhanVien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Truong\source\repos\TinhLuongNhanVien\TinhLuongNhanVien\obj\Debug\net10.0\TinhLuongNhanVien.AssemblyInfoInputs.cache
+C:\Users\Truong\source\repos\TinhLuongNhanVien\TinhLuongNhanVien\obj\Debug\net10.0\TinhLuongNhanVien.AssemblyInfo.cs
+C:\Users\Truong\source\repos\TinhLuongNhanVien\TinhLuongNhanVien\obj\Debug\net10.0\TinhLuongNhanVien.csproj.CoreCompileInputs.cache
+C:\Users\Truong\source\repos\TinhLuongNhanVien\TinhLuongNhanVien\obj\Debug\net10.0\TinhLuongNhanVien.dll
+C:\Users\Truong\source\repos\TinhLuongNhanVien\TinhLuongNhanVien\obj\Debug\net10.0\refint\TinhLuongNhanVien.dll
+C:\Users\Truong\source\repos\TinhLuongNhanVien\TinhLuongNhanVien\obj\Debug\net10.0\TinhLuongNhanVien.pdb
+C:\Users\Truong\source\repos\TinhLuongNhanVien\TinhLuongNhanVien\obj\Debug\net10.0\TinhLuongNhanVien.genruntimeconfig.cache
+C:\Users\Truong\source\repos\TinhLuongNhanVien\TinhLuongNhanVien\obj\Debug\net10.0\ref\TinhLuongNhanVien.dll

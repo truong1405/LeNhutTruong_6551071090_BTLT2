@@ -1,0 +1,14 @@
+C:\Users\Truong\source\repos\QuanLiSachCoBan\QuanLiSachCoBan\bin\Debug\net10.0\QuanLiSachCoBan.exe
+C:\Users\Truong\source\repos\QuanLiSachCoBan\QuanLiSachCoBan\bin\Debug\net10.0\QuanLiSachCoBan.deps.json
+C:\Users\Truong\source\repos\QuanLiSachCoBan\QuanLiSachCoBan\bin\Debug\net10.0\QuanLiSachCoBan.runtimeconfig.json
+C:\Users\Truong\source\repos\QuanLiSachCoBan\QuanLiSachCoBan\bin\Debug\net10.0\QuanLiSachCoBan.dll
+C:\Users\Truong\source\repos\QuanLiSachCoBan\QuanLiSachCoBan\bin\Debug\net10.0\QuanLiSachCoBan.pdb
+C:\Users\Truong\source\repos\QuanLiSachCoBan\QuanLiSachCoBan\obj\Debug\net10.0\QuanLiSachCoBan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Truong\source\repos\QuanLiSachCoBan\QuanLiSachCoBan\obj\Debug\net10.0\QuanLiSachCoBan.AssemblyInfoInputs.cache
+C:\Users\Truong\source\repos\QuanLiSachCoBan\QuanLiSachCoBan\obj\Debug\net10.0\QuanLiSachCoBan.AssemblyInfo.cs
+C:\Users\Truong\source\repos\QuanLiSachCoBan\QuanLiSachCoBan\obj\Debug\net10.0\QuanLiSachCoBan.csproj.CoreCompileInputs.cache
+C:\Users\Truong\source\repos\QuanLiSachCoBan\QuanLiSachCoBan\obj\Debug\net10.0\QuanLiSachCoBan.dll
+C:\Users\Truong\source\repos\QuanLiSachCoBan\QuanLiSachCoBan\obj\Debug\net10.0\refint\QuanLiSachCoBan.dll
+C:\Users\Truong\source\repos\QuanLiSachCoBan\QuanLiSachCoBan\obj\Debug\net10.0\QuanLiSachCoBan.pdb
+C:\Users\Truong\source\repos\QuanLiSachCoBan\QuanLiSachCoBan\obj\Debug\net10.0\QuanLiSachCoBan.genruntimeconfig.cache
+C:\Users\Truong\source\repos\QuanLiSachCoBan\QuanLiSachCoBan\obj\Debug\net10.0\ref\QuanLiSachCoBan.dll
